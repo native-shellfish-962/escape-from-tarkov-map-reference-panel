@@ -1,0 +1,22 @@
+{
+  "name": "escape-from-tarkov-map-reference-panel",
+  "displayName": "Escape from Tarkov Map Reference Panel",
+  "programType": "map-reference-panel",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Map layers",
+    "Location notes",
+    "Session planning"
+  ],
+  "topics": [
+    "escape-from-tarkov-map-reference-panel",
+    "escape-from-tarkov-tools",
+    "escape-from-tarkov-menu",
+    "escape-from-tarkov-settings",
+    "escape-from-tarkov-configs",
+    "escape-from-tarkov-map-layers",
+    "escape-from-tarkov-location-notes"
+  ]
+}
