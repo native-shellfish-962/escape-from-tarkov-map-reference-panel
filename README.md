@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 Escape from Tarkov Map Reference Panel · Program documentation and download information.
-                                                                                                    
